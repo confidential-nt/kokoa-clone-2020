@@ -1,3 +1,3 @@
 # KOKOA CLONE 2020
 
-Let's practice!
+Let's practice HTML & CSS!
