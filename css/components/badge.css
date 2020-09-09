@@ -1,0 +1,21 @@
+.badge {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  width: 30px;
+  background-color: #ff6229;
+  color: #fff;
+  border-radius: 50%;
+  font-weight: 600;
+}
+
+.bar__min-badge {
+  height: 5px;
+  width: 5px;
+  background-color: #ff6229;
+  border-radius: 50%;
+  position: absolute;
+  top: -5px;
+  right: -7px;
+}
